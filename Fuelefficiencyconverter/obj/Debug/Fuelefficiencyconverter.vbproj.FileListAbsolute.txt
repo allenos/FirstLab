@@ -1,0 +1,10 @@
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\bin\Debug\Fuelefficiencyconverter.exe.config
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.frmfuelefficiencyconverter.resources
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.Resources.resources
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.vbproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\bin\Debug\Fuelefficiencyconverter.exe
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\bin\Debug\Fuelefficiencyconverter.pdb
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\bin\Debug\Fuelefficiencyconverter.xml
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.exe
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.xml
+c:\users\oliver\documents\visual studio 2012\Projects\Fuelefficiencyconverter\Fuelefficiencyconverter\obj\Debug\Fuelefficiencyconverter.pdb
